@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+	<html>
+	<head>
+	    <title>Hauke wird aus dem Småland abgeholt</title>
+	    <meta charset="utf-8" />
+	    <link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	
+	<body>
+	
+		<h1>Hauke wird aus dem Småland abgeholt</h1>
+		
+		<img src="images/Abholtag 4.jpeg" style="width:100%; max-width:900px;">
+		
+		<p>
+		Hier kannst du die komplette Story schreiben:
+		Wann ihr losgefahren seid, wo ihr wart, wie die Abholung lief usw.
+		</p>
+		
+		<a href="index.html">← Zurück</a>
+	
+	</body>
+</html>
